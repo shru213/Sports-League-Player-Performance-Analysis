@@ -56,3 +56,21 @@ The dataset (`sports_league_data.csv`) contains player information with the foll
    ```bash
    git clone https://github.com/your-username/Sports-League-Player-Performance-Analysis.git
    cd Sports-League-Player-Performance-Analysis
+
+📊 Results & Insights
+
+The average age of players and player rating were calculated to assess overall league demographics and performance.
+
+Standard deviation ranges helped identify consistency and variability among players.
+
+Visualizations showed patterns of how age and ratings are distributed across the league.
+
+🚀 Future Improvements
+
+Extend the analysis to compare positions (e.g., Forwards vs. Defenders).
+
+Add correlation analysis between games played and performance rating.
+
+Incorporate time-based or team-level trends for deeper insights.
+
+Build a simple dashboard for interactive visualization.
